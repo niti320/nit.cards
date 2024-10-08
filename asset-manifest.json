@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nit.cards/static/css/main.3a8277ea.css",
+    "main.css": "/nit.cards/static/css/main.9a62eeeb.css",
     "main.js": "/nit.cards/static/js/main.3529755c.js",
     "static/js/453.f0d8a922.chunk.js": "/nit.cards/static/js/453.f0d8a922.chunk.js",
     "index.html": "/nit.cards/index.html",
-    "main.3a8277ea.css.map": "/nit.cards/static/css/main.3a8277ea.css.map",
+    "main.9a62eeeb.css.map": "/nit.cards/static/css/main.9a62eeeb.css.map",
     "main.3529755c.js.map": "/nit.cards/static/js/main.3529755c.js.map",
     "453.f0d8a922.chunk.js.map": "/nit.cards/static/js/453.f0d8a922.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a8277ea.css",
+    "static/css/main.9a62eeeb.css",
     "static/js/main.3529755c.js"
   ]
 }
