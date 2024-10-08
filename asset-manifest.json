@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nitcards/static/css/main.3a8277ea.css",
+    "main.js": "/nitcards/static/js/main.0a2fd1a3.js",
+    "static/js/453.f0d8a922.chunk.js": "/nitcards/static/js/453.f0d8a922.chunk.js",
+    "index.html": "/nitcards/index.html",
+    "main.3a8277ea.css.map": "/nitcards/static/css/main.3a8277ea.css.map",
+    "main.0a2fd1a3.js.map": "/nitcards/static/js/main.0a2fd1a3.js.map",
+    "453.f0d8a922.chunk.js.map": "/nitcards/static/js/453.f0d8a922.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8277ea.css",
+    "static/js/main.0a2fd1a3.js"
+  ]
+}
